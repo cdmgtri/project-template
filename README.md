@@ -25,6 +25,10 @@ npm run docs:watch   # Regenerate documentation on save
 
 Settings are in the `jsdoc.json` file.
 
+**Check for problems across all src directory files**
+
+Launches a VSCode task on project open to run `tsc --watch` on all `src` directory JavaScript files.
+
 **Testing with Jest**
 
 ```sh
