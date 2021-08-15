@@ -1,19 +1,10 @@
 {
   "name": "project-template",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "docs": "jsdoc index.js -r src -d docs -R README.md",
-    "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/jest": "^24.0.16",
-    "coveralls": "^3.0.5",
-    "jest": "^24.8.0",
-    "jsdoc": "^3.6.3"
-  }
+  "license": "ISC"
 }
